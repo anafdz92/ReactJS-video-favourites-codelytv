@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactjs-video-favourites-codelytv/precache-manifest.45771253753594ec674db99bc2067594.js"
+  "/reactjs-video-favourites-codelytv/precache-manifest.446bcb0f0bbc5e2e1c42a25f08f9526e.js"
 );
 
 workbox.clientsClaim();
