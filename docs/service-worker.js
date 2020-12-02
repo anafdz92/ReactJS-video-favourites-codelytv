@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "reactjs-video-favourites-codelytv/precache-manifest.09e24e65e93ab76adff56bc7651e5136.js"
+  "/reactjs-video-favourites-codelytv/precache-manifest.45771253753594ec674db99bc2067594.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("reactjs-video-favourites-codelytv/index.html", {
+workbox.routing.registerNavigationRoute("/reactjs-video-favourites-codelytv/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
