@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a11d8deb.chunk.css",
-  "main.js": "/static/js/main.fb32b63b.chunk.js",
-  "main.js.map": "/static/js/main.fb32b63b.chunk.js.map",
-  "static/js/1.955baaeb.chunk.js": "/static/js/1.955baaeb.chunk.js",
-  "static/js/1.955baaeb.chunk.js.map": "/static/js/1.955baaeb.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.a11d8deb.chunk.css.map": "/static/css/main.a11d8deb.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ea66ad652193835dc7caecb029814236.js": "/precache-manifest.ea66ad652193835dc7caecb029814236.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "reactjs-video-favourites-codelytv/static/css/main.a11d8deb.chunk.css",
+  "main.js": "reactjs-video-favourites-codelytv/static/js/main.7b667d8f.chunk.js",
+  "main.js.map": "reactjs-video-favourites-codelytv/static/js/main.7b667d8f.chunk.js.map",
+  "static/js/1.955baaeb.chunk.js": "reactjs-video-favourites-codelytv/static/js/1.955baaeb.chunk.js",
+  "static/js/1.955baaeb.chunk.js.map": "reactjs-video-favourites-codelytv/static/js/1.955baaeb.chunk.js.map",
+  "runtime~main.js": "reactjs-video-favourites-codelytv/static/js/runtime~main.dd51bc71.js",
+  "runtime~main.js.map": "reactjs-video-favourites-codelytv/static/js/runtime~main.dd51bc71.js.map",
+  "static/css/main.a11d8deb.chunk.css.map": "reactjs-video-favourites-codelytv/static/css/main.a11d8deb.chunk.css.map",
+  "index.html": "reactjs-video-favourites-codelytv/index.html",
+  "precache-manifest.09e24e65e93ab76adff56bc7651e5136.js": "reactjs-video-favourites-codelytv/precache-manifest.09e24e65e93ab76adff56bc7651e5136.js",
+  "service-worker.js": "reactjs-video-favourites-codelytv/service-worker.js"
 }
